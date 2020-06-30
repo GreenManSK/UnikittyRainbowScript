@@ -1,5 +1,5 @@
 //Možnosť vypnúť jednotlivé vlepšenia stránky (Užitočné hlavne pri testovaní, po čase z toho bolí hlava)
-IMG_LOC = 'https://unikitty.greenmanov.net/'; //Miesto, kde sa nachádzajú obrázky k scriptu
+IMG_LOC = 'https://raw.githubusercontent.com/GreenManSK/UnikittyRainbowScript/master/'; //Miesto, kde sa nachádzajú obrázky k scriptu
 VIDEO_WIDTH = 320;
 VIDEO_HEIGHT = 180;
 VIDEO_MARGIN = 30;
